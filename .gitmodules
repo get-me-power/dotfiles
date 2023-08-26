@@ -1,0 +1,3 @@
+[submodule "dotvim"]
+	path = dotvim
+	url = git@github.com:get-me-power/dotvim.git

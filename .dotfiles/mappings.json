@@ -1,0 +1,5 @@
+{
+  "dotvim": "~/.vim",
+  ".gitconfig": "~/.gitconfig",
+  ".gitmessage": "~/.gitmessage"
+}

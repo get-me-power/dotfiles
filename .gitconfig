@@ -1,0 +1,8 @@
+[user]
+	name = get-me-power
+	email = ypa.ypa.ypa.t@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
+[commit]
+	template = $HOME/.gitmessage
