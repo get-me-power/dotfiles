@@ -5,4 +5,4 @@
 	editor = vim
 	autocrlf = input
 [commit]
-	template = $HOME/.gitmessage
+	template = ~/.gitmessage
