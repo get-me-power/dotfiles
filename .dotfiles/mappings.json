@@ -1,5 +1,6 @@
 {
   "dotvim": "~/.vim",
   ".gitconfig": "~/.gitconfig",
-  ".gitmessage": "~/.gitmessage"
+  ".gitmessage": "~/.gitmessage",
+  "starship.toml": "~/.config/starship.toml"
 }
