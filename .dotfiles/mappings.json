@@ -2,5 +2,6 @@
   "dotvim": "~/.vim",
   ".gitconfig": "~/.gitconfig",
   ".gitmessage": "~/.gitmessage",
-  "starship.toml": "~/.config/starship.toml"
+  "starship.toml": "~/.config/starship.toml",
+  ".Brewfile": "~/.Brewfile"
 }
